@@ -1,0 +1,3 @@
+memory: "6g"
+config_path: "input/idf_config.xml"
+trips_path: "input/0.trips.csv"

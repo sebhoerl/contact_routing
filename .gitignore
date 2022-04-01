@@ -1,0 +1,5 @@
+/data/*
+/input/*
+/.snakemake
+.ipynb_checkpoints
+!.gitkeep
